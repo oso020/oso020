@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osman</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <p align="center">
   <img alt="Coding" width="800" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
