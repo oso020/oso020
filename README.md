@@ -6,9 +6,7 @@
 </p>
 <h3 align="center">🚀 Flutter Developer Summary</h3>
 
-<p align="center">
-  <img alt="Flutter" width="400" src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*tKXP12xqTfWEhWfO1_6FxA.png">
-</p>
+
 
 <p align="center">I'm a passionate Flutter developer with a focus on building high-quality, cross-platform mobile applications. I have hands-on experience in:</p>
 
@@ -26,7 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=oso020&label=Profile%20views&color=0e75b6&style=flat" alt="oso020" />
 </p>
 
-- 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [https://oso020.github.io/oso0220.github.io/](https://oso020.github.io/oso0220.github.io/)
 
@@ -36,7 +33,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UcsBwdnYeAn6qt2bUuXe7wycTSxlAgAG/view?usp=drive_link](https://drive.google.com/file/d/1UcsBwdnYeAn6qt2bUuXe7wycTSxlAgAG/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
