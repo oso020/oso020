@@ -4,6 +4,23 @@
 <p align="center">
   <img alt="Coding" width="800" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 </p>
+<h3 align="center">🚀 Flutter Developer Summary</h3>
+
+<p align="center">
+  <img alt="Flutter" width="400" src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*tKXP12xqTfWEhWfO1_6FxA.png">
+</p>
+
+<p align="center">I'm a passionate Flutter developer with a focus on building high-quality, cross-platform mobile applications. I have hands-on experience in:</p>
+
+- 📱 **Developing responsive UI** for Android and iOS using Flutter's rich widget library.
+- 🎯 **Dart programming** to write clean and efficient code.
+- 🔗 **Integrating REST APIs** to connect apps with back-end services.
+- 🛠 **State management** with Provider, BLoC, and Cubit for scalable app architecture.
+- 🧩 **Firebase integration** for authentication, Firestore, and push notifications.
+- 💡 **Continuous learning** of the latest trends in Flutter development to stay up-to-date with new packages, tools, and techniques.
+
+<p align="center">With Flutter, I enjoy building fast, reliable, and visually appealing apps that run smoothly across platforms. 💙</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oso020&label=Profile%20views&color=0e75b6&style=flat" alt="oso020" />
