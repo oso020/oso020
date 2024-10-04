@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osman</h1>
 
 <p align="center">
-  <img alt="Coding" width="800" height="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img alt="Coding" width="800" height="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 <h3 align="center">🚀 Flutter Developer Summary</h3>
 
