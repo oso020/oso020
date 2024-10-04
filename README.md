@@ -24,13 +24,13 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [https://oso020.github.io/oso0220.github.io/](https://oso020.github.io/oso0220.github.io/)
+- 👨‍💻 All of my projects are available at (Portfolio)[https://oso020.github.io/oso0220.github.io/](https://oso020.github.io/oso0220.github.io/)
 
 - 💬 Ask me about **Flutter & Dart**
 
 - 📫 How to reach me **hhhmohamed91@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UcsBwdnYeAn6qt2bUuXe7wycTSxlAgAG/view?usp=drive_link](https://drive.google.com/file/d/1UcsBwdnYeAn6qt2bUuXe7wycTSxlAgAG/view?usp=drive_link)
+- 📄 Know about my experiences (CV)[https://drive.google.com/file/d/1UcsBwdnYeAn6qt2bUuXe7wycTSxlAgAG/view?usp=drive_link](https://drive.google.com/file/d/1UcsBwdnYeAn6qt2bUuXe7wycTSxlAgAG/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
